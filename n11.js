@@ -1,16 +1,19 @@
-/* this pattern i need to match
+/* new pattern 
 1
-10
-101
+01
+010
 1010
 10101
-101010
+010101
 */
 
+
+
+
 let n=6;
+let Switch=1;//  defined outside so it continues from last row 
 for(let i=0;i<n;i++){
     let row=""; 
-    let Switch=1;// start each row with 1 (reset for every new row)
     for(let j=0;j<i+1;j++){
         row=row+Switch;
         if(Switch==1){
