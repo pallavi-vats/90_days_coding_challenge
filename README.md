@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -19,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
