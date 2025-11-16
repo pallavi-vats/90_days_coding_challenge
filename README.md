@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0283-move-zeroes) |
+| [2058-concatenation-of-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
