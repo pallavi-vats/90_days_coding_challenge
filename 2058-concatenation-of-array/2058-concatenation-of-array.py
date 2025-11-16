@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: List[int]
         """
         c=[]
+      
         for i in range(2):
             c.extend(nums)
         return c
