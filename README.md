@@ -60,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0577-employee-bonus) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
