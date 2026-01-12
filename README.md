@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1580-shuffle-the-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0102-binary-tree-level-order-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
