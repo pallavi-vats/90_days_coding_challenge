@@ -4,10 +4,13 @@
  */
 var missingNumber = function(nums) {
     let n=nums.length;
-    let partialsum=0;
-    let totalsum=n*(n+1)/2;
-    for (let i=0;i<n;i++){
-        partialsum+=nums[i];
+    let f_s=n*(n+1)/2;
+    let sum=0;
+    for (let i=0;i<nums.length;i++){
+        sum=sum+nums[i];
     }
- return totalsum-partialsum;
+   
+     let missing=f_s-sum;
+  return missing;
+    
 };
