@@ -12,7 +12,7 @@
  * @return {boolean}
  */
 var hasPathSum = function(root, targetSum) {
-    if(!root) return 0;
+    if(!root) return false;
     let ans=false;
     function trav(curr,currentsum){
         let newsum=currentsum+curr.val;
