@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
