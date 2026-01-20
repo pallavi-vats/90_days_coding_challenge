@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0645-set-mismatch) |
 | [1480-running-sum-of-1d-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1580-shuffle-the-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1580-shuffle-the-array) |
+| [1929-concatenation-of-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
