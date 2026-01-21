@@ -10,4 +10,5 @@ class Solution(object):
             curr=target-nums[i]
             if curr in d:
                 return[d[curr],i]
-            d[nums[i]]=i    
+            d[nums[i]]=i 
+        return 0   
