@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0645-set-mismatch) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1580-shuffle-the-array](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1580-shuffle-the-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pallavi-vats/90_days_coding_challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
